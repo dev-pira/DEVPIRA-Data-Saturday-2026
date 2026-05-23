@@ -1,7 +1,7 @@
 # DEVPIRA Data Saturday Piracicaba 2026
 
 <p align="center">
-  <img src="fotos/banner.jpg" alt="DEVPIRA Data Saturday 2026" width="800"/>
+  <img src="fotos/abertura/WhatsApp Image 2026-05-23 at 09.13.08.jpeg" alt="DEVPIRA Data Saturday 2026" width="800"/>
 </p>
 
 ## 📅 Sobre o Evento
@@ -55,7 +55,8 @@ DEVPIRA-Data-Saturday-2026/
 
 - 🌐 [DEVPIRA no Meetup](https://www.meetup.com/devpira/)
 - 📦 [Organização no GitHub](https://github.com/dev-pira)
+- 📸 [Instagram @devpira](https://www.instagram.com/devpira/)
 
 ---
 
-<p align="center">Feito com ❤️ pela comunidade DEVPIRA</p>
+<p align="center">Feito com ❤️ pela comunidade DEVPIRA · Repositório organizado com a ajuda do <a href="https://kiro.dev">Kiro</a> 🤖</p>
