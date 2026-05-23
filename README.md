@@ -31,7 +31,7 @@ As apresentações estão organizadas na pasta [`/apresentacoes`](./apresentacoe
 | Hugo Venturini | Microsoft FABRIC de Ponta a Ponta: Caso Real INMET | Em breve |
 | Márcio Nizzola & Carlos Machel | Multi Agentes e Workflows no Microsoft Agent Framework | [📂 Repositório](https://github.com/NIZZOLA/data-saturday-devpira-2026) · [📄 Slides](https://github.com/NIZZOLA/data-saturday-devpira-2026/blob/main/documents/Jornada_de_Desenvolvimento_com_Agentes_de_IA_-_Data_Saturday_DevPira_2026..pptx) |
 | Roberto Fonseca & Marcelo Adade | SQL Server 2025 para DBAs e Desenvolvedores | Em breve |
-| Carlos H. Cantu | Entendendo o controle de concorrência via MVCC/MGA/Versioning | [📄 Slides](./apresentacoes/carlos-cantu/DevPira%20-%20Entendendo%20o%20MVCC.pptx) |
+| Carlos H. Cantu | Entendendo o controle de concorrência via MVCC/MGA/Versioning | [📄 Slides](./apresentacoes/carlos-cantu/DevPira%20-%20Entendendo%20o%20MVCC.pdf) |
 
 > Palestrantes: para adicionar sua apresentação, crie uma pasta com seu nome em `/apresentacoes` ou abra um PR com o link para o seu repositório.
 
