@@ -11,7 +11,7 @@ Cada palestrante tem uma pasta ou link para seu repositório neste diretório.
 
 | Palestrante | Título da Palestra | Link |
 |---|---|---|
-| Felipe Correia | Impacto Real da IA nos Projetos de Dados | Em breve |
+| Felipe Correia | Impacto Real da IA nos Projetos de Dados | [📄 Slides](./felipe-correia/O%20Real%20Impacto%20da%20Intelig%C3%AAncia%20Artificial%20em%20Projetos%20de%20Dados.pdf) |
 | Renato Groffe & Milton Camara | Produtividade no uso de Bancos de Dados com IAs: descomplicando tarefas do dia a dia com MCP Servers | [📂 Repositório](https://github.com/renatogroffe/produtividade-mcps_sqlsaturday-piracicaba-2026) |
 | Hugo Venturini | Microsoft FABRIC de Ponta a Ponta: Caso Real INMET | Em breve |
 | Márcio Nizzola & Carlos Machel | Multi Agentes e Workflows no Microsoft Agent Framework | [📂 Repositório](https://github.com/NIZZOLA/data-saturday-devpira-2026) · [📄 Slides](https://github.com/NIZZOLA/data-saturday-devpira-2026/blob/main/documents/Jornada_de_Desenvolvimento_com_Agentes_de_IA_-_Data_Saturday_DevPira_2026..pptx) |
